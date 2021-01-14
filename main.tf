@@ -1,3 +1,3 @@
-resource "aws_instance" "server" {
+resource "aws_instance" "nikolay-test" {
   
 }
